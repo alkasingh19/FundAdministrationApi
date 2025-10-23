@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FundAdministrationApi", "FundAdministrationApi.csproj", "{3EB12CA2-271E-4BAC-88F9-D017DC01E580}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FundAdministrationApi", "FundAdministrationApi.csproj", "{3EB12CA2-271E-4BAC-88F9-D017DC01E580}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FundAdministrationApi.Tests", "..\FundAdministrationApi.Tests\FundAdministrationApi.Tests.csproj", "{D1DD6E55-F2CA-41A7-90BA-961A945EAB10}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FundAdministrationApi.Tests", "FundAdministrationApi.Tests\FundAdministrationApi.Tests.csproj", "{E90307A0-DCB9-4408-958F-E1AD49867E34}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{3EB12CA2-271E-4BAC-88F9-D017DC01E580}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3EB12CA2-271E-4BAC-88F9-D017DC01E580}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3EB12CA2-271E-4BAC-88F9-D017DC01E580}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D1DD6E55-F2CA-41A7-90BA-961A945EAB10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D1DD6E55-F2CA-41A7-90BA-961A945EAB10}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D1DD6E55-F2CA-41A7-90BA-961A945EAB10}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D1DD6E55-F2CA-41A7-90BA-961A945EAB10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E90307A0-DCB9-4408-958F-E1AD49867E34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E90307A0-DCB9-4408-958F-E1AD49867E34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E90307A0-DCB9-4408-958F-E1AD49867E34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E90307A0-DCB9-4408-958F-E1AD49867E34}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
